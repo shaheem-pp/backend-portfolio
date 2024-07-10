@@ -1,0 +1,16 @@
+.idea
+portfilio_project/.env
+portfilio_project/env
+media
+**/.idea
+**/.DS_Store
+.env
+env
+venv
+.venv
+*.log
+*.pot
+*.pyc
+_pycache_
+db.sqlite3
+*.bak
